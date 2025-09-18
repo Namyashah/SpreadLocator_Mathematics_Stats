@@ -82,25 +82,6 @@ The notebook includes:
 - ✅ Box-Cox transformation plots  
 - ✅ Z-score based outlier detection  
 
----
-
-## 🚀 How to Run
-1. Clone this repo:  
-   ```bash
-   git clone <your-repo-link>
-   cd SpreadLocator
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open Jupyter Notebook:  
-   ```bash
-   jupyter notebook SpreadLocator.ipynb
-   ```
-
----
-
 ## 📌 Conclusion
 The Log-Normal distribution best fits the transaction amounts, while Poisson models transaction counts effectively.  
 These insights can guide business decision-making, fraud monitoring, and financial planning.  
